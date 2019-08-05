@@ -134,6 +134,10 @@ Specific files can be ignored (totally or for some rules only) using a
 
 `Read more in the complete documentation! <https://yamllint.readthedocs.io/>`_
 
+PEX
+^^^
+pex yamllint -e yamllint.cli:run -o yamllint.pex
+
 License
 -------
 
