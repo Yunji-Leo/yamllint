@@ -138,6 +138,10 @@ PEX
 ^^^
 pex yamllint -e yamllint.cli:run -o yamllint.pex
 
+COMMAND
+^^^^^^^
+python3 -m yamllint [args]
+
 License
 -------
 
